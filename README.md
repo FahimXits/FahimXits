@@ -24,11 +24,11 @@ Specializing in distributed systems integration, high-performance API orchestrat
 ### Technical Proficiencies
 
 ```
-Architectures & Protocols  ::  Model Context Protocol (MCP) · REST · WebSockets · OpenAPI · Event-Driven
-Runtimes & Containers      ::  Python · Node.js · TypeScript · Docker · Linux
-Data & State Management    ::  PostgreSQL · Redis · RabbitMQ · In-Memory Caching · Message Queues
-Networking & Cloud Edge    ::  Cloudflare Tunnels · Reverse Proxies · Nginx · Zero-Trust Topologies
-DevOps & Orchestration     ::  GitHub Actions · Webhooks · Automated Workflows · Microservices
+Architectures & Protocols  ::  Model Context Protocol (MCP) | REST | WebSockets | OpenAPI | Event-Driven
+Runtimes & Containers      ::  Python | Node.js | TypeScript | Docker | Linux
+Data & State Management    ::  PostgreSQL | Redis | RabbitMQ | In-Memory Caching | Message Queues
+Networking & Cloud Edge    ::  Cloudflare Tunnels | Reverse Proxies | Nginx | Zero-Trust Topologies
+DevOps & Orchestration     ::  GitHub Actions | Webhooks | Automated Workflows | Microservices
 ```
 
 ---
